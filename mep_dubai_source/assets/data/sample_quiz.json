@@ -1,0 +1,26 @@
+{
+  "quizzes": [
+    {
+      "id": "q1",
+      "question": "At what voltage level does DEWA require LV distribution earthing?",
+      "options": [
+        "230V",
+        "400V",
+        "11kV",
+        "33kV"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q2",
+      "question": "Minimum clear height above transformer cut-out area?",
+      "options": [
+        "4m",
+        "5m",
+        "7m",
+        "10m"
+      ],
+      "answer": 2
+    }
+  ]
+}

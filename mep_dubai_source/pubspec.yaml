@@ -1,0 +1,22 @@
+name: mep_dubai_app
+description: MEP Dubai regulations Q&A app (skeleton)
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.0
+  shared_preferences: ^2.0.0
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.0.0
+  cloud_firestore: ^4.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pdfs/
+    - assets/data/
